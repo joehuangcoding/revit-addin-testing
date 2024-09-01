@@ -1,0 +1,15 @@
+{
+    "url": "https://github.com/joehuangcoding/revit-addin-testing/blob/main/MyFirstRevitPlugin.zip",
+    "name": "MyFirstRevitPlugin",
+    "localRootPath": "%PROGRAMDATA%\\Autodesk\\Revit\\AddIns\\2025",
+    "filePaths": [
+        {
+            "zipPath": "MyFirstRevitPlugin.addin",
+            "localPath": "MyFirstRevitPlugin.addin"
+        },
+        {
+            "zipPath": "MyFirstRevitPlugin.dll",
+            "localPath": "MyFirstRevitPlugin.dll"
+        }
+    ]
+}
