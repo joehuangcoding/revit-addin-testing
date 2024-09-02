@@ -4,12 +4,12 @@
     "localRootPath": "%PROGRAMDATA%\\Autodesk\\Revit\\AddIns\\2025",
     "filePaths": [
         {
-            "zipPath": "MyFirstRevitPlugin.addin",
-            "localPath": "MyFirstRevitPlugin.addin"
+            "zipPath": "\\MyFirstRevitPlugin.addin",
+            "localPath": "\\MyFirstRevitPlugin.addin"
         },
         {
-            "zipPath": "MyFirstRevitPlugin.dll",
-            "localPath": "MyFirstRevitPlugin.dll"
+            "zipPath": "\\MyFirstRevitPlugin.dll",
+            "localPath": "\\MyFirstRevitPlugin.dll"
         }
     ]
 }
